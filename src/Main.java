@@ -56,7 +56,7 @@ public class Main {
                     break;
                 case 6:
                     // Load tasks, java file interaction stuff
-                    break;
+                    break; //
                 case 0:
                     exit = true;
                     break;
